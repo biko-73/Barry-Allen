@@ -10,7 +10,7 @@
 # Plugin	... Enter Manually
 ########################################################################################################
 
-PACKAGE_DIR='Barry-Allen/main'
+PACKAGE_DIR='BarryAllen/main'
 MY_DEB="enigma2-plugin-extensions-barryallen_12.81_all.deb"
 
 ########################################################################################################
