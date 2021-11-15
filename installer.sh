@@ -1,9 +1,9 @@
 #!/bin/sh
 
 # ===========================================
-# SCRIPT : DOWNLOAD AND INSTALL Barry-Allen #
+# SCRIPT : DOWNLOAD AND INSTALL BarryAllen #
 # ======================================================================================================
-# Command: wget https://raw.githubusercontent.com/biko-73/Barry-Allen/main/installer.sh -O - | /bin/sh #
+# Command: wget https://raw.githubusercontent.com/biko-73/BarryAllen/main/installer.sh -O - | /bin/sh #
 # ======================================================================================================
 
 ########################################################################################################
